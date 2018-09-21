@@ -1,0 +1,22 @@
+C:\VSCore\Prueba\bin\Debug\netcoreapp2.1\Prueba.deps.json
+C:\VSCore\Prueba\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.json
+C:\VSCore\Prueba\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.dev.json
+C:\VSCore\Prueba\bin\Debug\netcoreapp2.1\Prueba.dll
+C:\VSCore\Prueba\bin\Debug\netcoreapp2.1\Prueba.pdb
+C:\VSCore\Prueba\obj\Debug\netcoreapp2.1\Prueba.csprojAssemblyReference.cache
+C:\VSCore\Prueba\obj\Debug\netcoreapp2.1\Prueba.csproj.CoreCompileInputs.cache
+C:\VSCore\Prueba\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfoInputs.cache
+C:\VSCore\Prueba\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfo.cs
+C:\VSCore\Prueba\obj\Debug\netcoreapp2.1\Prueba.dll
+C:\VSCore\Prueba\obj\Debug\netcoreapp2.1\Prueba.pdb
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\bin\Debug\netcoreapp2.1\Prueba.deps.json
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.json
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\bin\Debug\netcoreapp2.1\Prueba.runtimeconfig.dev.json
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\bin\Debug\netcoreapp2.1\Prueba.dll
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\bin\Debug\netcoreapp2.1\Prueba.pdb
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\obj\Debug\netcoreapp2.1\Prueba.csprojAssemblyReference.cache
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\obj\Debug\netcoreapp2.1\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfoInputs.cache
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\obj\Debug\netcoreapp2.1\Prueba.AssemblyInfo.cs
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\obj\Debug\netcoreapp2.1\Prueba.dll
+C:\Users\Ing. Roberto\Desktop\cursotecno\Prueba\obj\Debug\netcoreapp2.1\Prueba.pdb

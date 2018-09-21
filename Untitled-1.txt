@@ -1,0 +1,29 @@
+using System;
+
+namespace Prueba
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+ Console.WriteLine("escribe un numero:");
+           int numero;
+           if (int.TryParse(Console.ReadLine(), out numero))
+             // Console.WriteLine(numero+1);
+              {
+                  int result=1; 
+                  for (int i=2; i<=numero;i++ )
+                  result=result*i;
+                  Console.WriteLine($"El factorial de {numero} es {result}.");
+
+              }
+            else
+            Console.WriteLine("no escribiste un numero adios.");
+ }
+        
+        int siguiente (int numero)
+        {
+            return numero +1;
+        }
+    }
+}
